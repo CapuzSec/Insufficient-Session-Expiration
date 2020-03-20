@@ -20,7 +20,7 @@ No caso abaixo vamos mudar a senha simplesmente como se o usuário tivesse receb
 
 
 
-![Alt Text](https://github.com/Insufficient-Session-Expiration/blob/master/Formulario_Altera_Senha.PNG)
+![Alt Text](https://github.com/giovane999/Insufficient-Session-Expiration/blob/master/Formulario_Altera_Senha.PNG)
 
 
 #
@@ -37,7 +37,7 @@ Mensagem de senha alterada com sucesso.
 
 
 
-![Alt Text](https://github.com/Insufficient-Session-Expiration/blob/master/Senha_Alterada.PNG)
+![Alt Text](https://github.com/giovane999/Insufficient-Session-Expiration/blob/master/Senha_Alterada.PNG)
 
 
 #
@@ -50,7 +50,7 @@ Mensagem de senha alterada com sucesso.
 Senha alterada, agora podemos ver a requisição no Burp Suite onde o final da senha antiga consiste em "E999" e a nova em "E000" 
 
 
-![Alt Text](https://github.com/Insufficient-Session-Expiration/blob/master/Burp_Senha_Alterada.PNG)
+![Alt Text](https://github.com/giovane999/Insufficient-Session-Expiration/blob/master/Burp_Senha_Alterada.PNG)
 
 
 
@@ -67,7 +67,7 @@ Senha alterada, agora podemos ver a requisição no Burp Suite onde o final da s
 Resposta 200 OK (Senha alterada com sucesso)
 
 
-![Alt Text](https://github.com/Insufficient-Session-Expiration/blob/master/Burp_Senha_Alterada_200_OK.PNG)
+![Alt Text](https://github.com/giovane999/Insufficient-Session-Expiration/blob/master/Burp_Senha_Alterada_200_OK.PNG)
 
 
 
@@ -92,7 +92,7 @@ Agora alteramos novamente, sendo a antiga com final "E000" e a nova "E111"
 
 
 
-![Alt Text](https://github.com/Insufficient-Session-Expiration/blob/master/Burp_Repeater_Request_Senha.PNG)
+![Alt Text](https://github.com/giovane999/Insufficient-Session-Expiration/blob/master/Burp_Repeater_Request_Senha.PNG)
 
 
 
@@ -108,7 +108,7 @@ Agora alteramos novamente, sendo a antiga com final "E000" e a nova "E111"
 
 Retornando novamente resposta 200 OK (Senha alterada com sucesso)
  
-![Alt Text](https://github.com/Insufficient-Session-Expiration/blob/master/Burp_Repeater_Request_Senha_200_OK.PNG)
+![Alt Text](https://github.com/giovane999/Insufficient-Session-Expiration/blob/master/Burp_Repeater_Request_Senha_200_OK.PNG)
 
 
 
@@ -127,5 +127,5 @@ Depois simplesmente realizamos uma requisição para confirmar o ato, e observam
 
 Fazendo a função de alteração de senha se tornar inutil para parte de segurança, servindo apenas para realizar um login qualquer na plataforma.
 
-![Alt Text](https://github.com/Insufficient-Session-Expiration/blob/master/Burp_Repeater_Request_User.PNG)
-![Alt Text](https://github.com/Insufficient-Session-Expiration/blob/master/Burp_Repeater_200_Ok.PNG)
+![Alt Text](https://github.com/giovane999/Insufficient-Session-Expiration/blob/master/Burp_Repeater_Request_User.PNG)
+![Alt Text](https://github.com/giovane999/Insufficient-Session-Expiration/blob/master/Burp_Repeater_200_Ok.PNG)
