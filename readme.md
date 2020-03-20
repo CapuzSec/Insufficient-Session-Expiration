@@ -2,7 +2,7 @@
 
 
 #### A falha simplesmente ocorre por falta de quebra de sessão. 
-#### Digamos que um hacker consegue acesso a sua conta, poderiamos simplesmente usar a função "Mudar Senha ou Recuperar Senha" para barrar o mesmo. 
+#### Digamos que um hacker consegue acesso a sua conta, poderíamos simplesmente usar a função "Mudar Senha ou Recuperar Senha" para barrar o mesmo. 
 #### Quando solicitado, deveria invalidar todas as sessões antigas ou de outros aparelhos, porem, o hacker ainda continua logado e  realizando alterações no perfil da pessoa normalmente. 
 
 
