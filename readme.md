@@ -1,4 +1,4 @@
-#### Pessoal, mais cuidado ao desenvolver sua aplicação, encontrei uma falha em uma bastante conhecida e usada por empresas como Santander, Ibm, Volvo, Coca-cola, entre outras.
+#### Pessoal, mais cuidado ao desenvolver sua aplicação, encontrei uma falha em uma bastante conhecida e usada por empresas.
 
 
 #### A falha simplesmente ocorre por falta de quebra de sessão. 
